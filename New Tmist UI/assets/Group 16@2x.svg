@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Group 16@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="28.4666446%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#90EED0" offset="0%"></stop>
+            <stop stop-color="#57D9A3" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="16" cy="16" r="16"></circle>
+        <filter x="-10.9%" y="-7.8%" width="121.9%" height="121.9%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.248554418   0 0 0 0 0.762681159   0 0 0 0 0.643109616  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.201634726   0 0 0 0 0.727921196   0 0 0 0 0.549854345  0 0 0 0.319684222 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="h-1-1-恭喜你-" transform="translate(-22.000000, -103.000000)">
+            <g id="Group" transform="translate(24.000000, 104.000000)">
+                <g id="Group-16">
+                    <g id="Oval">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                        <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    </g>
+                    <path d="M24.701727,12.1363648 L14.3275751,22.6859524 C14.1601215,22.8562377 13.8863301,22.8585334 13.7160448,22.6910798 C13.7141561,22.6892225 13.7122845,22.6873479 13.7104303,22.6854563 L7.79719313,16.6528498 C7.63218185,16.4845074 7.6323985,16.2150198 7.79768024,16.046943 L9.48509172,14.3309959 C9.65254527,14.1607106 9.92633671,14.158415 10.096622,14.3258686 C10.0986215,14.3278348 10.1006019,14.3298204 10.1025627,14.3318252 L13.7086873,18.0186889 C13.8756828,18.1894234 14.1494671,18.1924544 14.3202016,18.0254588 C14.3222064,18.023498 14.324192,18.0215176 14.3261583,18.0195182 L22.3957887,9.81342344 C22.5632422,9.64313812 22.8370337,9.64084251 23.007319,9.80829605 C23.0090032,9.8099523 23.0106739,9.81162231 23.0123308,9.81330593 L24.7016114,11.5298444 C24.8671919,11.6980967 24.8672434,11.9680494 24.701727,12.1363648 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
