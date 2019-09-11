@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
-    <title>Checkbox / Checkbox / Checked@2x</title>
+    <title>btn_decision_hospital_checked@2x</title>
     <desc>Created with Sketch.</desc>
-    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="card-header-配置医院资源-copy-2" transform="translate(-33.000000, -15.000000)">
-            <g id="Checkbox-/-Checkbox-/-Checked" transform="translate(24.000000, 6.000000)">
-                <rect id="Container" x="0" y="0" width="40" height="40"></rect>
-                <rect id="Background" stroke="#3172E0" stroke-width="1.66666667" fill="#3172E0" fill-rule="evenodd" x="10" y="10" width="20" height="20" rx="3.33333333"></rect>
-                <g id="icon/checkbox" fill="#FFFFFF" fill-rule="evenodd">
-                    <path d="M16.1785113,18.8214887 C15.5276375,18.1706149 14.4723625,18.1706149 13.8214887,18.8214887 C13.1706149,19.4723625 13.1706149,20.5276375 13.8214887,21.1785113 L17.154822,24.5118446 C17.8056959,25.1627185 18.8609708,25.1627185 19.5118446,24.5118446 L26.1785113,17.845178 C26.8293851,17.1943041 26.8293851,16.1390292 26.1785113,15.4881554 C25.5276375,14.8372815 24.4723625,14.8372815 23.8214887,15.4881554 L18.3333333,20.9763107 L16.1785113,18.8214887 Z" id="Stroke"></path>
-                </g>
+    <g id="btn_decision_hospital_checked" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <rect id="Background" fill="#3172E0" x="3.55271368e-15" y="3.55271368e-15" width="20" height="20" rx="4"></rect>
+            <g id="icon/checkbox" transform="translate(3.000000, 5.000000)" fill="#FFFFFF">
+                <path d="M3.1785113,3.8214887 C2.52763748,3.17061488 1.47236252,3.17061488 0.821488698,3.8214887 C0.170614878,4.47236252 0.170614878,5.52763748 0.821488698,6.1785113 L4.15482203,9.51184464 C4.80569585,10.1627185 5.86097082,10.1627185 6.51184464,9.51184464 L13.1785113,2.84517797 C13.8293851,2.19430415 13.8293851,1.13902918 13.1785113,0.488155365 C12.5276375,-0.162718455 11.4723625,-0.162718455 10.8214887,0.488155365 L5.33333333,5.97631073 L3.1785113,3.8214887 Z" id="Stroke"></path>
             </g>
         </g>
     </g>
