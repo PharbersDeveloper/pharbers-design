@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>ucb-checkbox_checked-disabled@1x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ucb-checkbox_checked-disabled" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Checkbox-/-Checkbox-/-Checked-disabled">
+            <rect id="Container" x="0" y="0" width="40" height="40"></rect>
+            <rect id="Background" stroke="#F4F5F7" stroke-width="1.66666667" fill="#F4F5F7" fill-rule="evenodd" x="10" y="10" width="20" height="20" rx="3.33333333"></rect>
+            <g id="icon/checkbox" fill="#B3BAC5" fill-rule="evenodd">
+                <path d="M16.1785113,18.8214887 C15.5276375,18.1706149 14.4723625,18.1706149 13.8214887,18.8214887 C13.1706149,19.4723625 13.1706149,20.5276375 13.8214887,21.1785113 L17.154822,24.5118446 C17.8056959,25.1627185 18.8609708,25.1627185 19.5118446,24.5118446 L26.1785113,17.845178 C26.8293851,17.1943041 26.8293851,16.1390292 26.1785113,15.4881554 C25.5276375,14.8372815 24.4723625,14.8372815 23.8214887,15.4881554 L18.3333333,20.9763107 L16.1785113,18.8214887 Z" id="Stroke"></path>
+            </g>
+        </g>
+    </g>
+</svg>
