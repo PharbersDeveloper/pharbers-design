@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>icon/location copy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon/location-copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M500.136,64 C405.16,64 310.184,100.224 237.736,172.736 C92.712,317.632 92.712,552.576 237.736,697.472 L500.136,960 L762.536,697.472 C907.624,552.448 907.624,317.504 762.536,172.736 C690.152,100.224 595.112,64 500.136,64 L500.136,64 Z M500.136,576 C464.808,576 432.808,561.6 409.64,538.496 C386.472,515.392 372.136,483.392 372.136,448 C372.136,377.28 429.416,320 500.136,320 C570.856,320 628.136,377.28 628.136,448 C628.136,483.392 613.736,515.392 590.632,538.496 C567.528,561.6 535.464,576 500.136,576 L500.136,576 Z" id="Shape" fill="#FFFFFF"></path>
+    </g>
+</svg>
