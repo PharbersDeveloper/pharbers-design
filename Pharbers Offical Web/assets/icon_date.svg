@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
-    <title>icon/date copy</title>
-    <desc>Created with Sketch.</desc>
-    <g id="icon/date-copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M810.666667,147.2 L768,147.2 L768,64 L682.666667,64 L682.666667,147.2 L341.333333,147.2 L341.333333,64 L256,64 L256,147.2 L213.333333,147.2 C165.973333,147.2 128.426667,184.64 128.426667,230.4 L128,812.8 C128,858.56 165.973333,896 213.333333,896 L810.666667,896 C857.6,896 896,858.56 896,812.8 L896,230.4 C896,184.64 857.6,147.2 810.666667,147.2 Z M810.666667,812.8 L213.333333,812.8 L213.333333,355.2 L810.666667,355.2 L810.666667,812.8 Z M298.666667,438.4 L512,438.4 L512,646.4 L298.666667,646.4 L298.666667,438.4 Z" id="Shape" fill="#FFFFFF"></path>
-    </g>
-</svg>
