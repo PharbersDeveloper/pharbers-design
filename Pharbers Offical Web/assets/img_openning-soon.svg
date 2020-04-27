@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>img_openning-soon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Hand-off" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="d-01-03-活动列表页-480" transform="translate(-176.000000, -711.000000)">
+            <g id="Group" transform="translate(176.000000, 704.000000)">
+                <g id="img-/-openning-soon" transform="translate(0.000000, 7.000000)">
+                    <g id="Group-10-Copy">
+                        <path d="M0.459330144,0.283881641 C0.530638895,0.283881641 0.600968342,0.300484171 0.664748829,0.332374414 L6,2.99988164 L6,20.9998816 L0.664748829,23.6676256 C0.437849614,23.7810752 0.161942381,23.6891061 0.0484927735,23.4622069 C0.0166025302,23.3984264 0,23.328097 0,23.2567882 L0,0.743211784 C0,0.489530751 0.20564911,0.283881641 0.459330144,0.283881641 Z" id="Path" fill="#FAC80D"></path>
+                        <polygon id="Path" fill="#FFDB26" points="8 3.78947368 14 6.74947368 14 16.6184737 8 19.5789474"></polygon>
+                        <path d="M16,6.94736842 L23.2036292,10.6439676 C23.429328,10.7597868 23.5184032,11.0366418 23.402584,11.2623407 C23.3587104,11.3478381 23.2891265,11.4174219 23.2036292,11.4612956 L16,15.1578947 L16,15.1578947 L16,6.94736842 Z" id="Path" fill="#FFEF45"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
