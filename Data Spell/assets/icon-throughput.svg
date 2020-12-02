@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>local / icon / icon-throughput</title>
+    <g id="local-/-icon-/-icon-throughput" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill="#E1DFE9" cx="12" cy="12" r="12"></circle>
+        <path d="M9,18 L9,10 L6.5,10 L11,5.5 L11,18 L9,18 Z M15,6 L15,14 L17.5,14 L13,18.5 L13,6 L15,6 Z" id="Shape" fill="#63616B"></path>
+    </g>
+</svg>

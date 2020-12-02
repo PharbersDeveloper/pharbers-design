@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>local / icon / icon_data-consumers</title>
+    <g id="local-/-icon-/-icon_data-consumers" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill="#E1DFE9" cx="12" cy="12" r="12"></circle>
+        <g id="Group" transform="translate(5.000000, 5.000000)" fill="#57565F">
+            <g id="local-/-icon-/-provider" transform="translate(7.000000, 7.000000) scale(1, -1) translate(-7.000000, -7.000000) ">
+                <path d="M7.66482323,2.03266415 L11.4796465,5.84748737 L8.413,5.84666415 L8.41333333,9.46666667 C8.41333333,10.5850433 7.53908936,11.4992293 6.43672428,11.5631018 L6.31333333,11.5666667 L3.08,11.5666667 L3.08,10.1666667 L6.31333333,10.1666667 C6.67231842,10.1666667 6.96818835,9.89643853 7.00862392,9.54830145 L7.01333333,9.46666667 L7.013,5.84666415 L3.85,5.84748737 L7.66482323,2.03266415 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
