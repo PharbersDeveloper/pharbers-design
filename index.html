@@ -7,7 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"> -->
+    <link rel="stylesheet" href="./public/bootstrap.min.css">
     <link rel="stylesheet" href="./index.css">
     <link rel="shortcut icon" href="./favicon.ico" type="image/x-icon">
 
@@ -82,6 +83,16 @@
             </div>
         </div>
 
+        <!-- Card - Ad Lab -->
+        <div class="card " style="width: 16rem">
+            <img src="./public/img_thumbnails_Upload.jpg " class="card-img-top " alt="ucb ">
+            <div class="card-body ">
+                <h5 class="projetct-name ">Ad Lab</h5>
+                <p class="projetct-description ">Data Spell 插件</p>
+                <a href="./DS Plugin - AdLab/index.html " class="btn btn-primary ">查看</a>
+            </div>
+        </div>
+
         <!-- Card - bp Design System -->
         <div class="card " style="width: 16rem;display: none; ">
             <img src="./public/img_thumbnails_ds.jpg " class="card-img-top " alt="components ">
@@ -147,6 +158,8 @@
                 <a href="./Pharbers Platform/index.html " class="btn btn-primary ">查看</a>
             </div>
         </div>
+    </section>
+    <section class="container mb-2 ">
         <!-- Card - PB Offical Web -->
         <div class="card" style="width: 16rem;">
             <img src="./public/img_thumbnails_PBOW.jpg" class="card-img-top" alt="PB Offical Web">
@@ -184,9 +197,6 @@
 
             </div>
         </div>
-    </section>
-    <section class="container mb-2 ">
-
         <!-- Card - NEW TMIST Design -->
         <div class="card " style="width: 16rem; ">
             <img src="./public/img_thumbnails_Tmist.jpg " class="card-img-top " alt="TMIST ">
@@ -214,15 +224,6 @@
                 <a href="./General UI/index.html " class="btn btn-primary ">查看</a>
             </div>
         </div>
-        <!-- Card - CHC Design -->
-        <div class="card " style="width: 16rem; opacity: 0;">
-            <img src="./public/img_thumbnails_Upload.jpg " class="card-img-top " alt="ucb ">
-            <div class="card-body ">
-
-
-            </div>
-        </div>
-
     </section>
 
 
@@ -238,9 +239,13 @@
     </section>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js " integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo " crossorigin="anonymous "></script>
+    <!-- <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js " integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo " crossorigin="anonymous "></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js " integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1 " crossorigin="anonymous "></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js " integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM " crossorigin="anonymous "></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js " integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM " crossorigin="anonymous "></script> -->
+    <script src="./public/jquery-3.3.1.slim.min.js"></script>
+    <script src="./public/popper.min.js"></script>
+    <script src="./public/bootstrap.min.js"></script>
+
     <script>
         let apiURL = 'https://api.github.com/repos/PharbersDeveloper/pharbers-design/commits?per_page=7&sha=master';
 
@@ -254,8 +259,6 @@
                 for (let i = 0, len = commits.length; i < len; i++) {
                     showInDom(root, commits[i])
                 }
-                console.log(commits)
-                showInDom(root)
             }
             xhr.send()
         }
